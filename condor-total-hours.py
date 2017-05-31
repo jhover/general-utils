@@ -41,10 +41,11 @@ for line in lines:
     try:
         fields = line.split()
         log.debug(fields)
-        val = int(float(fields[0]))
-        cores = int(fields[1])
-        seconds += val * cores
-        processed += 1
+        if len(fields) > 1:
+            val = int(float(fields[0]))
+            cores = int(fields[1])
+            seconds += val * cores
+            processed += 1
     except ValueError:
         log.debug("Line %s value is '%s' " % (lineno, line))
 
