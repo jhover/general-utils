@@ -40,6 +40,7 @@ for line in lines:
     lineno +=1
     try:
         fields = line.split()
+        self.log.debug(fields)
         val = int(float(fields[0]))
         cores = int(fields[1])
         seconds += val * cores
@@ -50,16 +51,7 @@ for line in lines:
 
 log.debug("%d lines successfully processed." % processed)
 log.debug("%d total lines processed." % lineno)
-
-#for line in out:
-#    ( id,user, date1, time1 ,jobtime, status, date2, time2, cmd) = line.split()
-#    (d, hms ) = jobtime.split('+')
-#    (h,m,s) = hms.split(':')
-#    days += d
-#    hours += h
-#    minutes += m
-#    seconds += s
-log.debug("%s core-seconds total" % seconds)
+print("Total core-seconds: %s" % seconds)
 
 minutes += seconds / 60
 seconds = seconds % 60
