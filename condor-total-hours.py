@@ -15,7 +15,7 @@ hdlr = logging.StreamHandler(sys.stdout)
 formatter = logging.Formatter(formatstr)
 hdlr.setFormatter(formatter)
 log.addHandler(hdlr)
-log.setLevel(logging.DEBUG)
+log.setLevel(logging.INFO)
 
 cmd = "condor_history -autoformat  RemoteWallClockTime RequestCpus" 
 log.debug("command= '%s'" % cmd)
@@ -40,7 +40,7 @@ for line in lines:
     lineno +=1
     try:
         fields = line.split()
-        log.debug(fields)
+        #log.debug(fields)
         if len(fields) > 1:
             val = int(float(fields[0]))
             cores = int(fields[1])
@@ -53,6 +53,9 @@ for line in lines:
 log.debug("%d lines successfully processed." % processed)
 log.debug("%d total lines processed." % lineno)
 print("Total core-seconds: %s" % seconds)
+
+cpuhrs = (seconds / 60 ) / 60
+print("Total core-hours: %s" %cpuhrs)
 
 minutes += seconds / 60
 seconds = seconds % 60
