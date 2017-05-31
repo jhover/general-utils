@@ -1,0 +1,12 @@
+#
+# Converting p12 to pem
+#
+
+openssl pkcs12 -in [your-cert-file] -clcerts -nokeys -out [path]/usercert.pem
+openssl pkcs12 -in [your-cert-file] -nocerts -out [path]/userkey.pem
+
+
+#
+# Create no-password keyfile for robot use.
+#
+openssl rsa -in userkey.pem -out userkeynopw.pem

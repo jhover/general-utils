@@ -1,0 +1,5 @@
+/var/log/caching-wrapper.log {
+   daily
+   rotate 10
+   missingok
+}
