@@ -40,7 +40,7 @@ for line in lines:
     lineno +=1
     try:
         fields = line.split()
-        self.log.debug(fields)
+        log.debug(fields)
         val = int(float(fields[0]))
         cores = int(fields[1])
         seconds += val * cores
