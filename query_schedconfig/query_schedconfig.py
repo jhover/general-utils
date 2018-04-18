@@ -8,6 +8,7 @@ from pprint import pprint as pp
 import sys
 import urllib2
 
+from PandaQueue import PandaQueue
 
 class MissingPandaResourceException(Exception):
     def __init__(self, panda_resource):
@@ -42,6 +43,7 @@ class SchedConfig(object):
         if self.opts.force_reload:
             self.reload()
         self.schedconfig_data = self.get_source_data()
+        self.panda_resource_l = self.schedconfig_data.keys()
 
 
     def reload(self):
@@ -58,13 +60,13 @@ class SchedConfig(object):
 
 
     def get_panda_resource_data(self, panda_resource):
-        if panda_resource not in self.schedconfig_data.keys():
+        if panda_resource not in self.panda_resource_l:
             raise MissingPandaResourceException(panda_resource)
         return self.schedconfig_data[panda_resource]
 
 
     def get_ce_queues_data(self, panda_resource):
-        if panda_resource not in self.schedconfig_data.keys():
+        if panda_resource not in self.panda_resource_l:
             raise MissingPandaResourceException(panda_resource)
         return self.schedconfig_data[panda_resource]['queues']
 
@@ -79,6 +81,46 @@ class SchedConfig(object):
             raise MissingFiledException(field)
         return data[field]
 
+
+    def get_queue(self, panda_resource):
+        """
+        creates a PandaQueue object
+        """
+        data = self.get_panda_resource_data(panda_resource)
+        queue = PandaQueue(panda_resource, data)
+        return queue
+
+
+    def get_queue_l(self, *panda_resource_l):
+        """
+        creates a list of PandaQueue objects
+        """
+        queue_l = []
+        if len(panda_resource_l) == 0:
+            panda_resource_l = self.panda_resource_l
+        for panda_resource in panda_resource_l:
+            queue = self.get_queue(panda_resource)
+            queue_l.append(queue)
+        return queue_l
+
+    
+    def get_queue_l_pattern(self, *panda_resource_patterns)
+        """
+        same as get_queue_l, but the inputs can be patterns.
+        For example, "BNL" means "ANALY_BNL_SHORT", "BNL_PROD", etc
+        """
+        panda_resource_l = []
+        for pattern in panda_resource_patterns:
+            for panda_resource in self.panda_resource_l:
+                if pattern in panda_resource:
+                    panda_resource_l.append(panda_resource)
+        queue_l = self.get_queue_l(panda_resource_l)
+        return queue_l
+
+
+
+
+    
 
 # =============================================================================
 
