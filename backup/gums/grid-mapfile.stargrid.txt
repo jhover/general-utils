@@ -1,0 +1,164 @@
+#---- members of vo: star ----#
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jeff Porter 226" "/star" porter
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jerome Lauret 34" "/star" jlauret
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Wayne Betts 131" "/star" wbetts
+"/DC=org/DC=doegrids/OU=People/CN=Jerome LAURET 694693" "/star" osgstar
+"/DC=org/DC=doegrids/OU=People/CN=R Jefferson Porter 227760" "/star" porter
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Jeff Porter 226" "/star" osgstar
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Jerome Lauret 34" "/star" osgstar
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Levente Hajdu 2464" "/star" osgstar
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Lidia Didenko 1136" "/star" osgstar
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Wayne Betts 131" "/star" osgstar
+#---- members of vo: engage ----#
+"/C=AU/O=APACGrid/OU=Monash University/CN=Blair Bethwaite" "/Engage" engage
+"/C=UK/O=eScience/OU=Durham/L=eScience/CN=stefan hoeche" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=CHANG FENG 2174" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John McGee 37" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jonah Bernhard 1060" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Lene Jung Kjaer" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Leo Fang 1656" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Marcin Sliwowski 1923" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Mats Rynge 45" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Scott Teige 652" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Shanshan Cao 1468" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Steven Cox 1663" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Zane Beckwith 1665" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=OSGMM/engage-central.renci.org" "/Engage" engage
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=glideinwms-frontend/engage-submit3.renci.org" "/Engage" engage
+"/DC=es/DC=irisgrid/O=bsc-cns/CN=enric.tejedor" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Aaron L Tygart 780029" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Aashish Nath Adhikari 388587" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Abhijit C. Mehta 488030" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Aditya Devarakonda 471409" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Ahmed Ismail 95351" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Alain Roy 424511" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Alexey  Akimov 738728" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Allan Espinosa 107118" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Allan M. Espinosa 374652" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Andre Barbosa 245859" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Andre Luckow 475636" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Andreas Prlic 794045" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Aneesh Manohar 688130" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Anton Betten 208267" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Anton Betten 731818" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Antony Jepson 626391" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Azbayar Demberel 84947" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Bruce Jesus Thayre 408958" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=CHANG FENG 187668" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=CHANG FENG 685968" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Christopher Coleman-Smith 233460" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Constantinos Evangelinos 577106" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=David Kelly 913680" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=David Mendez Lopez 986704" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=David Minh 20969" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=David Rivshin 608083" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Evan Couzo 726702" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Feng Zhao 842363" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=GUANGYOU QIN 560765" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Gabriele Garzoglio 762243" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Gary Stiehr 576439" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Gaurang Mehta 998137" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Gayane Vardoyan 616959" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Glen Hocky 700439" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Grigor Aslanyan 847243" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Hannah Petersen 57339" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Howard Lander 118538" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Humberto Ortiz-Zuazaga 281340" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Ian Stokes-Rees 411174" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=James Barr von Oehsen 99621" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=James McCann 803994" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=James Weichel 18840" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Jason Reilly 122074" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Jeffrey M. Dost 948199" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Jing Deng 397855" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Johannes Muelmenstaedt 370615" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=John McGee 941820" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=John Volmer 865969" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=John-Paul Robinson 441955" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Jonathan Mills 68280" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Jonathan Monette 88790" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Julia Fang 807184" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Karl Pickett 38411" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Kate Adams 959393" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Ketan Maheshwari 64821" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Lene Jung Kjaer 648115" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Marc Parisien 49851" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Marko Slyz 664315" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Michael Fenn 216504" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Michael Glotter 140240" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Michael Wilde 415951" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Michael Wilde 610834" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Mihael Hategan 336881" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Ole Weidner 569195" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Ole Weidner 845013" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Patricia Clayton 166647" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Paul Ruth 649770" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Pedro da Silveira 309438" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Poornima Pochana 486035" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Randel Cotta 369552" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Sachiko Toda 420927" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Scott Andrew Callaghan 655442" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Sebastien Goasguen 653949" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Shanshan Cao 869484" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Spencer Bliven 8468" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Steffen A. Bass 721870" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Steven Cox 318595" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Tanya Levshina 508821" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Taylor Gugino 52150" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Terrence Martin 525658" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Thomas Ullrich 119497" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Timothy B Mortensen 924668" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Tobias Toll 465409" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Vikas Argod 961606" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Vishagan Ratnaswamy 870586" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Vivek Bhattacharya 227008" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Xiaoshu Wang 274763" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Xiaozheng Yao 618203" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Yi Wang 909023" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Yu Huang 971258" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Zhaoya Gong 453630" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=Zhiyong Wang 389109" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=pradeep kumar mantha 826519" "/Engage" engage
+"/DC=org/DC=doegrids/OU=People/CN=sharath maddineni 307018" "/Engage" engage
+"/DC=org/DC=doegrids/OU=Services/CN=OSGMM/engage-central.renci.org" "/Engage" engage
+"/DC=org/DC=doegrids/OU=Services/CN=RENCI Science Portal/arnoux.renci.org" "/Engage" engage
+"/DC=org/DC=doegrids/OU=Services/CN=glideinwms-frontend/engage-submit3.renci.org" "/Engage" engage
+"/DC=org/DC=doegrids/OU=Services/CN=irods.fnal.gov" "/Engage" engage
+"/DC=org/DC=doegrids/OU=Services/CN=rokpilot01/osg.ctbp.ucsd.edu" "/Engage" engage
+"/O=dutchgrid/O=users/O=uva/OU=amc/CN=Mark Alexander Santcroos" "/Engage" engage
+#---- members of vo: LIGO ----#
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Edgar Mauricio Fajardo Hernandez 2020" "/osg/ligo" ligo
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=gtesterpilot01/test-001.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=ipv6vm007.fnal.gov" "/osg/ligo" ligo
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=osg-ligo-1.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=rsv/fermicloud053.fnal.gov" "/osg/ligo" ligo
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=test-006.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=test-007.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=uclhc-fe-1.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Edgar Mauricio Fajardo Hernandez 2020" "/osg/ligo" ligo
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=gtesterpilot01/test-001.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=ipv6vm007.fnal.gov" "/osg/ligo" ligo
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=osg-ligo-1.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/osg-ligo-1.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/test-001.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/uclhc-fe-1.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=rsv/fermicloud053.fnal.gov" "/osg/ligo" ligo
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=test-006.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=test-007.t2.ucsd.edu" "/osg/ligo" ligo
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=uclhc-fe-1.t2.ucsd.edu" "/osg/ligo" ligo
+#---- members of vo: mis ----#
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jdost/CN=732648/CN=Jeffrey Michael Dost" "/mis" mis
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Elizabeth Prout" "/mis" mis
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=testpilot03/test-frontend-1.t2.ucsd.edu" "/mis" mis
+"/DC=org/DC=cilogon/C=US/O=Indiana University/CN=Elizabeth Prout A19956" "/mis" mis
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Elizabeth Prout" "/mis" mis
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Kyle Gross 79" "/mis" mis
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Marco Mambelli 247" "/mis" mis
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Scott Teige 652" "/mis" mis
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=test-frontend-1.t2.ucsd.edu" "/mis" mis
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=testpilot03/test-frontend-1.t2.ucsd.edu" "/mis" mis
+#---- members of vo: rsvuser ----#
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=rsv/services02.usatlas.bnl.gov" "" rsvuser
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=rsv/stargrid02.rcf.bnl.gov" "" rsvuser
+"/DC=org/DC=doegrids/OU=Services/CN=rsv/services02.usatlas.bnl.gov" "" rsvuser
+"/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=rsv/services02.usatlas.bnl.gov" "" rsvuser
