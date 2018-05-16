@@ -1,0 +1,4 @@
+"/star" osgstar
+"/Engage" engage
+"/osg/ligo" ligo
+"/mis" mis
