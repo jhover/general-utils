@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 import os
 import sys
-import commands
+#import commands
+import subprocess as commands
 import logging
 import getopt
 import string
@@ -196,7 +197,7 @@ def lsof_listeners():
                     lst = Listener(cmd, pid, user, filedescriptor, type, '0t0', node, iface, service, port)
                 log.debug("listeners.lsof_listeners(): Listener object created. Adding to list.")
                 lstnrs.append(lst)
-            except Exception, e:
+            except Exception as e:
                 log.debug("listeners.lsof_listeners(): Something wrong with line: '%s' Error %s" % (line, e))        
     else:
         log.info("listeners.lsof_listeners(): No listening processes found.")
@@ -279,12 +280,12 @@ Report problems to <jhover@bnl.gov>'''
     try:
         opts, args = getopt.getopt(argv, "hdv", ["help", "debug", "verbose"])
     except getopt.GetoptError:
-        print "Unknown option..."
-        print usage                          
+        print( "Unknown option..." )
+        print( usage )                          
         sys.exit(1)        
     for opt, arg in opts:
         if opt in ("-h", "--help"):
-            print usage                     
+            print( usage )                     
             sys.exit()            
         elif opt in ("-d", "--debug"):
             log.setLevel(logging.DEBUG)
